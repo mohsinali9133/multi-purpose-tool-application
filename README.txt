@@ -15,7 +15,7 @@ Features:
 - Age Calculator
 - Currency Converter
 - Distance Converter
-- Basic Calculator
+- Scientific Calculator
 - Calculation History
 - About Project section
 - Input validation and error handling

@@ -21,7 +21,7 @@ public class MainApp {
             System.out.println("  2. Age Calculator");
             System.out.println("  3. International Currency Converter");
             System.out.println("  4. Distance Unit Converter");
-            System.out.println("  5. Basic Calculator");
+            System.out.println("  5. Scientific Calculator");
             System.out.println("  6. Calculation History");
             System.out.println("  7. About Project");
             System.out.println("  0. Exit");
